@@ -1,0 +1,6 @@
+nn 2-lstm 4nn 128-64-32-2 1hop 39d 2k  bidirection:False
+2 layer LSTM
+vec_dim: 128 audio_maxframe: 1500 query_maxframe: 150
+l2_weight:0.001
+lr: 0.001 train_data: /home/kenin815/train_small.label train_num: 25936
+val_data: /home_local/kenin815/data/test_small_iv.label val_num: 1211

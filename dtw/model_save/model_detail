@@ -1,0 +1,5 @@
+ bidirection:False
+2 layer LSTM
+vec_dim: 128 audio_maxframe: 1500 query_maxframe: 150
+l2_weight:0.001
+lr: 0.001 train_data: /home/kenin815/dtw_train_2knorm.txt train_num: 25936

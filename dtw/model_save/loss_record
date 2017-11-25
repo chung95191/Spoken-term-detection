@@ -1,0 +1,10 @@
+epoch: 0 loss: 30.7932607638 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5950
+epoch: 1 loss: 8.93989033496 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.6003
+epoch: 2 loss: 8.29443429268 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5821
+epoch: 3 loss: 7.06043655706 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5998
+epoch: 4 loss: 5.21012536248 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5949
+epoch: 5 loss: 4.45617131463 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5836
+epoch: 6 loss: 6.2142370437 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5758
+epoch: 7 loss: 7.15650389269 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5792
+epoch: 8 loss: 7.10403237646 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5951
+epoch: 9 loss: 6.86133391176 acc: 0.0 val_loss: 0 val_acc: 0 val_map:0.5874
